@@ -53,7 +53,7 @@ Software        :
 Reference       :
     # From a Japanese video about girls participating in the pocky game "11.11",
       by pressing the button so that the time stops right at 11.11
-    # Link Video : https://www.instagram.com/reel/CWfP40tlE5x/?utm_medium=copy_link
+    # Link Video : [Hidden]
 
 Thanks          :
     # Andrien Wiandyano (Comment)
